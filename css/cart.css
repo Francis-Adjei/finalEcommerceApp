@@ -48,13 +48,13 @@
   }
   
   button {
-    background-color: #666;
+    background-color: blueviolet;
     color: #fff;
   }
   
   button:hover,
   button:focus {
-    background-color: #555;
+    background-color: blueviolet;
   }
   
   img,
